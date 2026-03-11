@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on some private projects<br>🌱 I’m currently learning JS & PHP<br>👯 I’m looking to collaborate on some projects<br>🤔 I’m looking for help with Web Skills<br>💬 Ask me about my hobbies<br>📫 How to reach me: portfolio.aleksanderonysiak.be<br>🖥️I'm working on my PFE<br>⚡ Fun fact: I'm a Dinosaur Rawrr<br>
+🔭 I’m currently working on some private projects<br>🌱 I’m currently learning JS & PHP<br>👯 I’m looking to collaborate on some projects<br>🤔 I’m looking for help with Web Skills<br>💬 Ask me about my hobbies<br>📫 How to reach me: portfolio.aleksanderonysiak.be<br>🖥️I'm working on my PFE<br>⚡ Fun fact: I'm only 28 <br>
 
 
 # 💻 Tech Stack:
