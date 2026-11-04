@@ -1,12 +1,183 @@
-# 💫 About Me:
-🔭 I’m currently working on some private projects<br>🌱 I’m currently learning JS & PHP & Laravel<br>👯 I’m looking to collaborate on some projects<br>🤔 I’m looking for help with Web Skills<br>💬 Ask me about my hobbies<br>📫 How to reach me: portfolio.aleksanderonysiak.be<br>🖥️I'm working on my PFE<br>⚡ Fun fact: I'm only 28 <br>
+<!--
+  GitHub Profile README — Aleksander Onysiak
+-->
 
+<p align="center">
+    <a href="https://portfolio.aleksanderonysiak.be" title="Visit my portfolio">
+        <img src="./hero.png" alt="Aleksander Onysiak — Full-Stack Web Developer, Back-end Focus" width="100%" />
+    </a>
+</p>
 
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6) ![Adobe Illustrator](https://img.shields.io/badge/adobeillustrator-%23FF9A00.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white) ![Adobe InDesign](https://img.shields.io/badge/Adobe%20InDesign-49021F?style=for-the-badge&logo=adobeindesign&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+<p align="center">
+    <a href="https://portfolio.aleksanderonysiak.be"><img
+            src="https://img.shields.io/badge/PORTFOLIO-VIEW_MY_WORK-D5FF75?style=for-the-badge&amp;labelColor=15221B&amp;logo=googlechrome&amp;logoColor=D5FF75"
+            alt="Portfolio" /></a>
+    <a href="https://portfolio.aleksanderonysiak.be/contact/"><img
+            src="https://img.shields.io/badge/CONTACT-LET'S_TALK-202C37?style=for-the-badge&amp;labelColor=15221B&amp;logo=gmail&amp;logoColor=D5FF75"
+            alt="Contact" /></a>
+    <a href="https://github.com/Aleksander-Onysiak?tab=repositories"><img
+            src="https://img.shields.io/badge/GITHUB-EXPLORE_REPOS-202C37?style=for-the-badge&amp;labelColor=15221B&amp;logo=github&amp;logoColor=D5FF75"
+            alt="GitHub repositories" /></a>
+</p>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Aleksander-Onysiak&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+<p align="center">
+    <strong>Clean architecture. Thoughtful design. Constant learning.</strong><br />
+    Building practical web applications, with particular attention to the logic behind the interface.
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Aleksander-Onysiak&icon=2&color=1)](https://visitcount.itsvg.in)
+
+### 01 / About me
+
+I'm **Aleksander Onysiak**, a web developer with a background in web development at **HEPL (Haute École de la Province
+de Liège), Belgium**, and a strong interest in **back-end engineering**.
+
+My preferred tools are **PHP, Laravel and MySQL**. I enjoy turning real requirements into well-structured applications:
+designing relational databases, implementing business logic, managing authentication and connecting the back end to a
+usable interface. My graphic design background helps me approach products from both an **engineering** and a **user
+experience** perspective.
+
+<table>
+    <tr>
+        <td width="33%" valign="top">
+            <b>🎯 Career direction</b><br /><br />
+            Back-end web development, with a focus on Laravel and PHP.
+        </td>
+        <td width="33%" valign="top">
+            <b>🎓 Right now</b><br /><br />
+            Developing practical web projects and continuing to strengthen my full-stack skills.
+        </td>
+        <td width="34%" valign="top">
+            <b>🤝 Opportunities</b><br /><br />
+            Interested in a back-end internship and collaborative projects.
+        </td>
+    </tr>
+</table>
+
+### 02 / Education & training
+
+<table>
+    <tr>
+        <td width="50%" valign="top">
+            <b>HEPL — Web Development &amp; Digital Design</b><br />
+            <i>4 years of higher education · Degree not obtained</i><br />
+            <small>Haute École de la Province de Liège</small>
+        </td>
+        <td width="50%" valign="top">
+            <b><a href="https://formation-web-developer-designer.be/">EAFC Fléron–Charlemagne</a></b><br />
+            Web Developer (BES) · <i>Training under consideration</i>
+        </td>
+    </tr>
+</table>
+
+### 03 / Tech stack
+
+**Core back-end** — my main area of interest
+
+<p>
+    <img src="https://skillicons.dev/icons?i=php,laravel,mysql&amp;theme=dark" alt="PHP, Laravel and MySQL"
+        height="48" />
+</p>
+
+**Front-end & web** — building responsive interfaces
+
+<p>
+    <img src="https://skillicons.dev/icons?i=html,css,sass,js,ts,wordpress&amp;theme=dark"
+        alt="HTML, CSS, Sass, JavaScript, TypeScript and WordPress" height="48" />
+</p>
+
+**Mobile, design & workflow** — connecting code with creative thinking
+
+<p>
+    <img src="https://skillicons.dev/icons?i=flutter,dart,figma,photoshop,illustrator,git,github,phpstorm&amp;theme=dark"
+        alt="Flutter, Dart, Figma, Photoshop, Illustrator, Git, GitHub and PhpStorm" height="48" />
+</p>
+
+<details>
+    <summary><b>More tools and disciplines</b></summary>
+    <br />
+    Blade templates · Eloquent ORM · Database migrations · Tailwind CSS · Responsive design · Adobe InDesign · Adobe
+    Premiere Pro · Adobe XD · Markdown · Notion
+</details>
+
+### 04 / Selected projects
+
+<table>
+    <tr>
+        <td width="50%" valign="top">
+            <h3>01 · Cosmunity</h3>
+            <p><b>Final-year project · In development</b></p>
+            <p>A community platform for the cosplay world, bringing together creators, photographers and event
+                participants through profiles, groups, events and communication features.</p>
+            <p><code>Web platform</code> <code>Community</code> <code>Product design</code></p>
+            <p><i>Private / work in progress</i></p>
+        </td>
+        <td width="50%" valign="top">
+            <h3>02 · Jiris</h3>
+            <p><b>Academic project · In development</b></p>
+            <p>A Laravel application for organizing academic juries, managing contacts, assigning roles and connecting
+                students with projects and jury sessions.</p>
+            <p><code>Laravel</code> <code>PHP</code> <code>MySQL</code></p>
+            <p><i>Private / work in progress</i></p>
+        </td>
+    </tr>
+    <tr>
+        <td width="50%" valign="top">
+            <h3>03 · Metal Guard Belgique</h3>
+            <p><b>Professional website · Live</b></p>
+            <p>A real-world web and digital presence project combining WordPress development, a custom theme, content
+                management and a commercial use case.</p>
+            <p><code>WordPress</code> <code>PHP</code> <code>SCSS</code></p>
+            <p><a href="https://metalguard.be/">Visit the website ↗</a></p>
+        </td>
+        <td width="50%" valign="top">
+            <h3>04 · TicTic</h3>
+            <p><b>Flutter mobile application · In development</b></p>
+            <p>A mobile project exploring group-based expense tracking, reusable components and clean, responsive
+                Material 3 interfaces.</p>
+            <p><code>Flutter</code> <code>Dart</code> <code>Material 3</code></p>
+            <p><i>Project in progress</i></p>
+        </td>
+    </tr>
+</table>
+
+<p align="center">
+    <a href="https://portfolio.aleksanderonysiak.be/mes-projets/"><b>Explore more work on my portfolio →</b></a>
+</p>
+
+### 05 / What I'm focusing on
+
+- **Back-end engineering:** improving my Laravel architecture, database modeling, relationships and application logic.
+- **Code quality:** writing clearer, maintainable code and building confidence with testing and debugging.
+- **Full-stack delivery:** connecting reliable PHP back ends with well-designed interfaces.
+- **Continuous learning:** developing my JavaScript, TypeScript and Flutter skills alongside my primary stack.
+
+### 06 / Beyond the code
+
+A curious mind with interests in **history, cosplay, technology and visual design**. I value creativity, perseverance
+and the satisfaction of making complex things work simply.
+
+**Languages:** Polish · French · English
+
+### 07 / Let's connect
+
+If you're looking for a motivated developer interested in **Laravel / PHP back-end development**, I'd be happy to talk
+about an internship or an interesting project.
+
+<p align="center">
+    <a href="mailto:onysaleks@gmail.com"><img
+            src="https://img.shields.io/badge/EMAIL-SEND_A_MESSAGE-D5FF75?style=for-the-badge&amp;labelColor=15221B&amp;logo=gmail&amp;logoColor=15221B"
+            alt="Send me an email" /></a>
+    <a href="https://portfolio.aleksanderonysiak.be"><img
+            src="https://img.shields.io/badge/WEBSITE-MY_PORTFOLIO-202C37?style=for-the-badge&amp;labelColor=15221B&amp;logo=googlechrome&amp;logoColor=D5FF75"
+            alt="Portfolio website" /></a>
+</p>
+
+<p align="center">
+    <a href="mailto:onysaleks@gmail.com">
+        <img src="./footer.png" width="100%"
+            alt="Let's build something meaningful — open to a back-end internship and collaborations" />
+    </a>
+</p>
+
+<p align="center"><sub>Designed with purpose · Built with Markdown, HTML &amp; SVG · © Aleksander Onysiak</sub></p>
