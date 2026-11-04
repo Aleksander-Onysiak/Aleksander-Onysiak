@@ -1,66 +1,73 @@
 <!--
-  Aleksander Onysiak — GitHub profile README
+  Aleksander Onysiak — GitHub Profile README.
+
 -->
 
-<div align="center">
-  <a href="https://portfolio.aleksanderonysiak.be" title="Open Aleksander's portfolio">
-    <img src="./portfolio-readme.png" width="100%" alt="Aleksander Onysiak — portfolio overview with midnight-dark background, chartreuse highlights, biography, education, technology stack, Cosmunity, Metal Guard Belgique, Yoga App and contact details" />
-  </a>
-</div>
+[![Aleksander Onysiak — Developer Portfolio](./01-intro.png)](https://portfolio.aleksanderonysiak.be)
 
 <p align="center">
-  <a href="https://portfolio.aleksanderonysiak.be"><strong>PORTFOLIO</strong></a>
-  &nbsp; · &nbsp;
-  <a href="https://metalguard.be/"><strong>METAL GUARD BELGIQUE</strong></a>
-  &nbsp; · &nbsp;
-  <a href="https://github.com/Aleksander-Onysiak?tab=repositories"><strong>GITHUB REPOSITORIES</strong></a>
-  &nbsp; · &nbsp;
-  <a href="mailto:onysaleks@gmail.com"><strong>CONTACT</strong></a>
+  <a href="https://portfolio.aleksanderonysiak.be"><strong>VIEW MY PORTFOLIO</strong></a>
+  &nbsp;·&nbsp;
+  <a href="https://github.com/Aleksander-Onysiak?tab=repositories"><strong>GITHUB PROJECTS</strong></a>
+  &nbsp;·&nbsp;
+  <a href="mailto:onysaleks@gmail.com"><strong>CONTACT ME</strong></a>
 </p>
 
+![01 / About me](./02-about.png)
+
+![02 / Education and training](./03-education.png)
+
+<a href="https://formation-web-developer-designer.be/"><strong>Explore the EAFC Web Developer course ↗</strong></a>
+
+![03 / Tech stack](./04-tech-stack.png)
+
+![04 / Cosmunity, Metal Guard Belgique and Yoga App](./05-projects.png)
+
+<p align="center">
+  <a href="https://metalguard.be/"><strong>METAL GUARD BELGIQUE ↗</strong></a>
+  &nbsp;·&nbsp;
+  <a href="https://portfolio.aleksanderonysiak.be"><strong>MORE PROJECTS ↗</strong></a>
+</p>
+
+![05 / What drives me](./06-focus.png)
+
+[![Let's connect](./07-contact.png)](mailto:onysaleks@gmail.com)
+
+<p align="center">
+  <a href="mailto:onysaleks@gmail.com"><strong>SEND ME AN EMAIL</strong></a>
+  &nbsp;·&nbsp;
+  <a href="https://github.com/Aleksander-Onysiak"><strong>GITHUB</strong></a>
+</p>
+
+![© 2026 Aleksander Onysiak](./08-footer.png)
+
 <details>
-<summary><strong>Read the text version / Profile information</strong></summary>
+<summary><strong>Accessible text version / Read my profile</strong></summary>
 
-## About me
+### About me
 
-I'm **Aleksander Onysiak**, a Belgium-based web developer with four years of higher education in web development at **HEPL**. My main interest is **back-end engineering**: PHP, Laravel, MySQL, application architecture, database relationships and authentication. My design background helps me connect technical solutions to good user experiences.
+I'm Aleksander Onysiak, a Belgium-based web developer with four years of higher education in web development at HEPL. I'm particularly interested in back-end development with PHP, Laravel and MySQL, from database relationships to authentication and application logic.
 
-## Education & training
+### Education
 
-- **HEPL — Web Development & Digital Design** · 4 years of higher education · Degree not obtained.
-- **EAFC Fléron–Charlemagne** · Web Developer (BES) · Training under consideration. [Explore the course](https://formation-web-developer-designer.be/).
+- **HEPL — Web Development & Digital Design:** 4 years of higher education; degree not obtained.
+- **EAFC Fléron–Charlemagne — Web Developer (BES):** training under consideration.
 
-## Tech stack
+### Tech stack
 
 - **Back-end:** PHP, Laravel, MySQL, Eloquent ORM, migrations, authentication.
-- **Front-end & CMS:** HTML5, CSS, SCSS, JavaScript, TypeScript, Blade, WordPress, ACF Pro.
-- **Mobile & design:** Flutter, Dart, Figma, Photoshop, Illustrator, Git, GitHub, PhpStorm.
-- **More tools:** Alpine.js, Livewire, Tailwind CSS, responsive design, testing and debugging.
+- **Front-end and CMS:** HTML5, CSS, SCSS, JavaScript, TypeScript, Blade, WordPress, ACF Pro.
+- **Mobile and design:** Flutter, Dart, Figma, Photoshop, Illustrator, Git, GitHub, PhpStorm.
+- **More:** Alpine.js, Livewire, responsive design, testing and debugging.
 
-## Selected projects
+### Projects
 
-### Cosmunity
+- **Cosmunity:** a community platform concept for cosplayers, photographers, groups and events. In development.
+- **[Metal Guard Belgique](https://metalguard.be/):** a professional business website using a custom WordPress theme, PHP, SCSS and ACF Pro.
+- **Yoga App:** a Flutter mobile app to join live yoga classes with a coach and follow structured course plans. In development.
 
-A community platform concept for cosplayers, photographers and event participants, featuring profiles, groups, events and communication tools. **Private / work in progress.**
+### Contact
 
-### [Metal Guard Belgique](https://metalguard.be/)
-
-A live professional website with a custom WordPress theme and structured content management. **WordPress · PHP · SCSS · ACF Pro.**
-
-### Yoga App
-
-A Flutter mobile application that lets users join live yoga classes with a coach and follow a variety of structured yoga course plans. **Flutter · Dart · In development.**
-
-## What drives me
-
-I enjoy understanding a problem, implementing a solution, testing it and improving it. My focus is on becoming a stronger back-end developer while understanding the entire product.
-
-**Languages:** Polish · French · English.
-
-## Contact
-
-I'm interested in PHP / Laravel back-end opportunities and meaningful collaborations.
-
-[Send me an email](mailto:onysaleks@gmail.com) · [Visit my portfolio](https://portfolio.aleksanderonysiak.be)
+I'm interested in PHP/Laravel back-end opportunities and collaborations. [Email me](mailto:onysaleks@gmail.com) or [visit my website](https://portfolio.aleksanderonysiak.be).
 
 </details>
